@@ -1,6 +1,7 @@
-### Hi I'm KatzsDev 👋
+### Hi I'm KatzDev 👋
 
 - 🔭 I’m currently working at [@FireBird5-Team](https://github.com/FireBird5-Team)
+- - 📫 How to reach me: [Discord](https://discord.gg/mEnDydK)
 
 <!--
 **thekatzdev/thekatzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
